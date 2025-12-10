@@ -1,0 +1,8 @@
+{
+  "name": "smart-chat-filter",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "googleapis": "latest"
+  }
+}
